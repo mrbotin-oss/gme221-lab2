@@ -32,3 +32,8 @@ The final output is exported as GeoJSON file for visualization in QGIS.
 - The relation of this Laboratory Exerccise and the lecture discussed regarding Input/Process/Output is that the first order of business when approaching Spaatial Analysis is to know how to start. Understanding the format helps in selecting the best tool for our spatial analysis
 - Selecting the correct format ensures smooth integration, data exchange, and optimal analysis.
 - These formats, discussed last lecture, are crucial for storing, sharing, and processing geospatial data in GIS.
+
+
+## Reflection -- Process Reflection Milestone
+- CRS transformation is necessary before area computation to make sure that the unit used is correct and to avoid distortion and inaccurate representation of data that may result to 
+- 
