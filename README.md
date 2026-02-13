@@ -37,3 +37,8 @@ The final output is exported as GeoJSON file for visualization in QGIS.
 ## Reflection -- Process Reflection Milestone
 - CRS transformation is necessary before area computation to make sure that the unit used is correct and to avoid distortion and inaccurate representation of data that may result to 
 - 
+
+## Reflection - Challenge Task
+- The challenge task is to identify parcels where Non-Residential landuse occupies ≥ 50% of the parcel area.
+- Following the lab manual and understanding the content help me come up with my algorithm steps
+- Th difference between my 
